@@ -37,7 +37,7 @@ const About = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://drive.google.com/file/d/13s9F_ma3c3XLGUETtqXWM3_vrBWhKwna/view?usp=sharing"  
+                href="https://drive.google.com/file/d/1mKP98HGqk-yhkuHgPz8x0zcMQmr5MxUw/view?usp=sharing"  
                 download
                 className="bg-purple-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-purple-600 transition-colors duration-300"
               >
